@@ -11,7 +11,7 @@ The $1000-2000 price range of semiautomatic espresso machines is full of options
 
 Most machines in this price bracket are either Heat Exchangers or Dual Boilers. Heat Exchangers use one large steam boiler, with a separate pipe for heating brew water running through it, so steam pressure and brew water temperature are linked. Dual boilers have separate brew and steam boilers, so the temperatures are separately controlled.
 
-Before I go in depth, my short list for machines below $2000 is:
+Before I go in depth, the short list for pump machines below $2000 is:
 - Breville Dual Boiler (huge modding and DIY service community, extremely good temperature stability)
 - Rancilio Silvia Pro X (great build quality, very solid brewing and steaming performance)
 - Lelit MaraX (very small, good option if space limited)
@@ -19,7 +19,7 @@ Before I go in depth, my short list for machines below $2000 is:
 There are other good machines than these, but they are not as feature rich or as ubiquitous. 
 
 
-## Machines I Would Recommend:
+## Recommended Machines:
 These machines all are reasonably well specced and well built and won't cause you any additional difficulty brewing. 
 
 #### Breville Dual Boiler ($1600 US, less elsewhere) 
@@ -29,7 +29,7 @@ These machines all are reasonably well specced and well built and won't cause yo
 - Temperature stability is excellent because of PID controlled boilers and PID controlled group head heater. 
 - Hot water is dispensed from the brew boiler, so adding flow control via simple modifications ("Slayer mod" or "GS/3 mod") is possible. 
 - UI is very good and easy to use.
-- Quick heatup time (around 10 minutes from cold to ready). 
+- Quick heatup time (around 10 minutes from cold to ready on 120V). 
 - The pressure gauge reads from near the group, and is pretty accurate to actual in-group conditions. 
 - Programmable preinfusion done via TRIAC control of the pump.
 - Common to find used for well under new price - not uncommon to find them between $750-1000 US. 
@@ -46,13 +46,13 @@ These machines all are reasonably well specced and well built and won't cause yo
 - Quite large (roughly 15-16" in all dimensions), which can make it awkward for smaller spaces. 
 - Steam subsystem uses silicone O-rings which need to be checked for leaks about every 6 months.
 - Pretty loud in operation as stock. 
-- Somewhat annoying to do internal maintenance because of its internal layout, which is borrowed heavily from the more automated Oracle series. 
+- Somewhat annoying to do more in depth maintenance because of its internal layout, which is borrowed heavily from the more automated Oracle series. 
 - The 3-way solenoid valve is not the greatest quality part and can fail prematurely. Luckily, it's an easy part to swap, and uses a standard base. 
 - Brew pressure is often set too high from factory, usually 10-11 bars. 
 - Looks are... polarizing. 
 
 #### Rancilio Silvia Pro X ($1870 US; less in Europe)
-*In Short:* My personal choice for this price range if you don't want flow control. Built like a tank, with very strong steaming performance and great flat profile shots, and a relatively small footprint. 
+*In Short:* Possibly the best choice for this price range if you don't want flow control. Built like a tank, with very strong steaming performance and great flat profile shots and a middling footprint.
 
 **The Good:**
 - Both boilers are PID controlled, so tempurature stability is very good. 
@@ -63,21 +63,24 @@ These machines all are reasonably well specced and well built and won't cause yo
 - Brew pressure is set correctly from the factory at 9 bars with no group outflow. 
 - Stock portafilter is quite deep (it can take 22-25g baskets, which usually require a bottomless portafilter). 
 - Two separate pumps for the brew and service boilers, so it can dispense hot water or fill the service boiler and pressurize the brew loop simultaneously.
-- Stock baskets are IMS made, so pretty good. 
+- Stock baskets are generally decent quality - not the best, but serviceable. 
 
 **The Not So Good:**
 - The PID's UI is somewhat confusing to set for anything more complex than brew and steam temperatures. Keep the user manual, you're gonna need it.
-- The turn-on timer is pretty much useless, and I'd recommend just using a $20 smart plug instead. 
+- The turn-on timer is pretty much useless, just using a $20 smart plug instead. 
 - The stock drip tray is a terrible design. Luckily, Pantechnicon sells a 3D printed replacement part, but it is still baffling that they didn't update this from the original Silvia or Silvia Pro.
 - The pressure gauge reads boiler pressure rather than actual group pressure, so it should be ignored or at least taken with a grain of salt. 
 - Steam arm is a traditional type, no no-burn tubing here. 
+- The stock shower screen seems to hang onto a lot of coffee grounds, so it's worth spending $20 on the IMS Competition screen solely for ease of cleaning. 
+- Make sure all panels are tightened down all the way to keep noise down - if they are not, they will rattle like mad. 
  
 
 #### Profitec Pro 300 ($1800 US)
-*In Short:* An overall similar machine to the Silvia Pro X, but with a slightly rebalanced feature set. Good choice if you want flat profile shots and don't need massive steam power.
+*In Short:* An overall similar machine to the Silvia Pro X, but with a slightly rebalanced feature set and slightly better aesthetics. Good choice if you want flat profile shots and don't need massive steam power.
 
 **The Good:**
-- PID controlled brew temperature. Only the brew boiler is PID controlled; this is okay, because a pressurestat is perfectly adequate for a service boiler. 
+- PID controlled brew temperature. 
+   - Only the brew boiler is PID controlled; this is okay, because a pressurestat is perfectly adequate for a service boiler. 
 - 400ml brew boiler and a 750ml steam boiler. This should make for slightly better brew temp stability for long ratio shots, but slightly less steaming capability.
 - Much better drip tray than the Silvia Pro X. 
 - 2 hole steam tip with no burn steam arm, and it can take any m8.5x0.75 tip. 
@@ -151,7 +154,7 @@ These machines all are reasonably well specced and well built and won't cause yo
 
 **The Good:** 
 - E61 group, which means most parts are standard and an aftermarket flow control paddle can be added easily.
-- PID control with two thermocouples - one in the brew loop, one in the steam boiler. Remarkably good temperature control for a heat exchanger and does not require a cooling flush.
+- PID control with two thermocouples - one in the brew loop, one in the steam boiler. Remarkably good temperature control for a heat exchanger and does not require a cooling flush, despite relatively quick recovery time.
 - 3 temperature settings (Low/Medium/High, corresponding to about 89/91/93C, +/- 2C).
     - It may seem rather brute force compared to machines that show 1C increments, but heat exchangers at their core are rather unstable, so +/-2C is quite good.
 - Very small for its boiler size (1.8L) at only 22cm/9" wide and 41cm/16" deep.
@@ -167,6 +170,7 @@ These machines all are reasonably well specced and well built and won't cause yo
 - Heatup time, as with any E61 machine, is long due to the group's gigantic thermal mass. 
 - Like almost every E61 machine, it lacks programmable shot times or volumes (if that matters to you).
 - The stock feet are, unfortunately, quite bad.
+- Small footprint means limited cup storage on top.
 
 #### Bezzera BZ13 PM ($1550 US, more in Europe)
 *In Short:* The only other Heat Exchanger I'd recommend, solely because of its small size and quick heatup time. It's also the cheapest option here and by far the cheapest Italian built machine.
@@ -187,8 +191,8 @@ These machines all are reasonably well specced and well built and won't cause yo
 ## Machines I would not recommend:
  Compared to the above options, these machines are generally too expensive for the features and functionality they offer. If you get a good deal on one used, then it may be worth considering.
  
-Profitec Pro 500 ($2000 US)
-*In Short:* Not bad, but too expensive compared to others on the market. Most PID E61 heat exchanger machines are similar to this one. A PID on the steam boiler of a heat exchanger is kind of a gimmick - it does nothing to control the brew water temperature, which still relies on getting the thermosiphon tuning correct and/or flushing the group.
+#### Profitec Pro 500 ($2000 US)
+*In Short:* Not bad, but too expensive compared to others on the market. Most PID E61 heat exchanger machines are similar to this one. A PID on the steam boiler of a heat exchanger is kind of a gimmick - it does nothing to control the brew water temperature, which still relies on getting the thermosiphon tuning correct (which slows recovery time down massively) or flushing the group of overheated water.
 
 **The Good:**
 - Large 2L boiler
@@ -197,9 +201,10 @@ Profitec Pro 500 ($2000 US)
 - Pressure set roughly correctly from factory.
 
 **The Not So Good:**
-- PID control, but only of steam boiler temperature. 
+- PID control, but only of steam boiler temperature. Group thermometer is almost mandatory. 
     - Apparently they've done some tuning of the thermosiphon to not require flushing, but I can't confirm this.
 - Price rather high for its feature set. 
+- Fairly large. 
 
 #### ECM Mechanika ($1900 US)
 *In Short:* This machine is indicative of the vast majority of non-PID heat exchangers from the likes of Quick Mill, Rocket, Izzo, VBM, and so on - expensive for the feature set, but built very well. These are old technology and really just shouldn't be considered at their overinflated price points.
@@ -210,7 +215,7 @@ Profitec Pro 500 ($2000 US)
 - Same no-burn steam wand as most other E61 machines in this range. 
 
 **The Not So Good:**
-- Pressurestat control of the steam boiler, so a cooling flush is necessary if it sits idle.
+- Pressurestat control of the steam boiler, so brew temperature is a giant question mark without a group thermometer.
 - Not recommended for its lack of features vs price. 
 
 #### Nuova Simonelli Oscar II ($1400 US)
@@ -222,6 +227,7 @@ Profitec Pro 500 ($2000 US)
 - Programmable shots
 - NSF Certified, so technically usable in a commercial setting - again, not recommended.
 - Plumb in kit available
+- Lever operated steam valve is a plus. 
 
 **The Not So Good:**
 - Pressurestat controlled (again), so flushing is necessary. 
