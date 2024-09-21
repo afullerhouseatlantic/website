@@ -26,7 +26,8 @@ The pump machines on this list range from as low as $150 used all the way up to 
 These machines all use a traditional tank-style boiler. They generally have stronger steam and can have better temperature control, but take longer to heat up and change over to steam from brew (and vice versa). They're usually Italian made, and tend to be pretty hardy machines that are hard to break if they are fed good water and are used responsibly. 
 
 ### **Gaggia Classic (~[$449](https://www.gaggia.com/manual-machines/new-classic/))** 
-> Generally _not recommended_ stock. Only buy used if you want to tinker. 
+> Generally _not recommended_ stock. Only buy used if you want to tinker.
+
 #### Pros:
 - Large modding community
 - Well built, common to have machines 20+ years old
@@ -60,7 +61,7 @@ These machines all use a traditional tank-style boiler. They generally have stro
 - Included accessories (baskets, tamper, etc) are surprisingly decent and totally usable
 
 #### Cons:
-- Temperature is controlled by thermostats and wanders around; worth
+- Temperature is controlled by thermostats and wanders around; worth adding a PID.
 - Many different versions, takes some research to understand what the differences are
   - check the "Silvia of All Varieties" thread under Pump Machines in the Discord server for more information
 - Frame sometimes can rust
@@ -117,6 +118,7 @@ Similar machines to the Silvia include the **Bezzera New Hobby ($835)**, **ECM C
 These machines use thermoblocks to heat water - they heat faster and have much faster changeover between brew and steam, but can have temperature stability issues as temperature is also dictated by the rate at which water flows through the heater.
 
 ### **Breville Bambino** ([$300](https://www.breville.com/us/en/products/espresso/bes450.html))
+
 #### Pros:
 - Very affordable; lowest cost for a new pump machine that can produce great espresso
 - PID Controlled temp (single setting, 200F)
@@ -152,7 +154,8 @@ These machines use thermoblocks to heat water - they heat faster and have much f
 - other cons minus 3-way valve apply here as well
 
 ### **Breville Infuser** ([$599](https://www.amazon.com/Breville-BES840XL-Infuser-Espresso-Machine/dp/B0089SSOR6))
-> Generally the best value Breville, if you're focused on espresso quality and steam takes a back seat.
+> Generally the best value Breville, if you're focused on espresso quality and steam takes a back seat. Uses a  thermocoil instead of a thermojet.
+
 #### Pros:
 - Works decently out of the box
 - PID Controlled temp (5 settings at 2F increments, 196-204F) and fairly stable
@@ -172,12 +175,12 @@ These machines use thermoblocks to heat water - they heat faster and have much f
 - Water-waster, the OPV dumps to the drip tray
 
 ## Manual Levers:
-Instead of using a pump to create pressure, lever machines use a  lever actuated piston. The machines on this list are all _direct levers_ which means that the user controls the force on the piston directly. Most on this list do not include a boiler. 
+Instead of using a pump to create pressure, lever machines use a  lever actuated piston. The machines on this list are all _direct levers_ which means that the user controls the force on the piston directly. Most on this list do not include a boiler. They tend to have a fairly steep learning curve compared to pump machines. 
 
 > Note: for the manual levers that don’t include a milk steamer, you can froth milk by heating it up then frothing in a French press, using a spinny-thingy like a Nanofoamer, or buying the Bellman stovetop milk steamer. Whether that’s worth the price and effort for your workflow is up to you.
 
 ### **Flair** (Neo, Classic, Pro 2) ([$160 - $319](https://flairespresso.com/products/espresso-makers/))
-> The most affordable entry point to true espresso
+> The most affordable entry point to true espresso, but has a steep learning curve. 
 
 #### Pros:
 - Highest espresso quality at its price range due to profiling ability
@@ -192,7 +195,7 @@ Instead of using a pump to create pressure, lever machines use a  lever actuated
 - Maximum temperature reaches ~200F and tapers from there, limiting shot time and the ability to pull light roasts
 - Lack of non-proprietary accessories due to portafilter size
 
-### **Flair** 58 (58X, 58, 58+) ([$500-$720](https://flairespresso.com/products/espresso-makers/)
+### **Flair** 58 (58X, 58, 58+) ([$500-$720](https://flairespresso.com/products/espresso-makers/))
 
 #### Pros:
 - Totally user controlled direct lever
@@ -212,7 +215,7 @@ Instead of using a pump to create pressure, lever machines use a  lever actuated
 
 
 ### **Cafelat Robot** ([$310 - $449](https://www.cafelatstore.com/products/robotpowdercoating))
-Similar to the Flair but with higher build quality and an easier workflow
+Similar to the Flair but with higher build quality and an easier workflow.
 #### Pros:
 - Preheating somewhat optional with medium-dark roasts due to low thermal mass
 - Looks cool with googly eyes
@@ -224,7 +227,8 @@ Similar to the Flair but with higher build quality and an easier workflow
 - Oddball basket design limits options for accessories
 
 ### **La Pavoni Europiccola** ([$989](https://www.lapavoni.com/en/products/domestic-machines/europiccola-lusso))
-> Classic and basically indestructible machine made since the 1960s, but a poor value at its current new price. 
+> Classic and basically indestructible machine made since the 1960s, but a poor value at its current new price.
+
 #### Pros:
 - Can make amazing espresso
 - Small footprint
@@ -246,11 +250,12 @@ Similar to the Flair but with higher build quality and an easier workflow
 These machines are similar to the Single Boiler/Dual Use machines listed above but have a grinder built in. They are great for space saving, but it is not uncommon to outgrow the grinder quickly as they are generally pretty poor quality. Generally not recommended. 
 
 ### **Breville Barista Express** ([$699 [Commonly on sale for $599]](https://www.breville.com/us/en/products/espresso/bes870.html))
-> Breville Infuser, but with a grinder. The Express Impress adds an assisted tamp feature, but is otherwise the same. The Barista Pro is also very similar but with a thermojet instead of a thermocoil.
+> Breville Infuser, but with a Dose Control Pro grinder built in. The Express Impress adds an assisted tamp feature, but is otherwise the same. The Barista Pro is also very similar but with a thermojet instead of a thermocoil.
+
 #### Pros:
 - Comes with a grinder
 - similar pros to Infuser otherwise
 
 #### Cons:
 - Similar cons to the Infuser
-- Grinder is not particularly easy to dial in and is faily unreliable
+- Grinder is not particularly easy to dial in, has high retention, and is faily unreliable
